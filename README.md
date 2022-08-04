@@ -2,7 +2,7 @@
 
 [De-An Huang](https://ai.stanford.edu/~dahuang/), [Zhiding Yu](https://chrisding.github.io/), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/)
 
-[[`arXiv`]()] [[`Project`]()] [[`BibTeX`](#CitingMinVIS)]
+[[`arXiv`](https://arxiv.org/abs/2208.02245)] [[`Project`]()] [[`BibTeX`](#CitingMinVIS)]
 
 <div align="center">
   <img src="https://ai.stanford.edu/~dahuang/images/minvis.png" width="100%" height="100%"/>
@@ -41,7 +41,7 @@ Portions of the project are available under separate license terms: Mask2Former 
 @article{huang2022minvis,
   title={MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training},
   author={De-An Huang and Zhiding Yu and Anima Anandkumar},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2208.02245},
   year={2022}
 }
 ```
