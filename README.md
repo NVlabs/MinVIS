@@ -38,10 +38,10 @@ Portions of the project are available under separate license terms: Mask2Former 
 ## <a name="CitingMinVIS"></a>Citing MinVIS
 
 ```BibTeX
-@article{huang2022minvis,
+@inproceedings{huang2022minvis,
   title={MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training},
   author={De-An Huang and Zhiding Yu and Anima Anandkumar},
-  journal={arXiv preprint arXiv:2208.02245},
+  journal={NeurIPS},
   year={2022}
 }
 ```
